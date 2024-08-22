@@ -1,4 +1,4 @@
-# PGASR
-Code for paper: PGASR: Prototype-Guiding with Affinity-based Self-Refinemnt Weakly Supervised Semantic Segmentation for Histopathology Image
+# IIPAU
+Code for paper: IIPAU: Integration Information of Prototype, Affinity and Uncertainty for Weakly Supervised Semantic Segmentation of Histopathology Image
 
 Code will come soon
