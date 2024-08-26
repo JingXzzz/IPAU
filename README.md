@@ -1,4 +1,4 @@
-# IIPAU
-Code for paper: IIPAU: Integration Information of Prototype, Affinity and Uncertainty for Weakly Supervised Semantic Segmentation of Histopathology Image
+# IPAU
+Code for paper Maximizing Information for Weakly-Supervised Tissue Segmentation by Integration of Prototype, Affinity and Uncertainty
 
-Code will come soon
+Code will come soon!
